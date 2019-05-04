@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.8.6",
+    "react-native": "^0.59.5",
+    "react-native-cli": "^2.0.1",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-navigation": "2.18.3"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.53.1"
+  }
+}
